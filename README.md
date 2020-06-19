@@ -1,6 +1,6 @@
 # Web-страница: Путешествие по России
 
-[**Ссылка на проект:**] (https://kmiranenka.github.io/russian-travel/index.html)
+**Ссылка на проект:** (https://kmiranenka.github.io/russian-travel/index.html)
 
 **О проекте:**
 Одностраничный сайт о путешествии по России.
