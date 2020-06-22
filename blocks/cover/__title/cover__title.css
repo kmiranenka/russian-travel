@@ -6,29 +6,27 @@
   text-align: center;
   color: #ffffff;
   max-width: 560px;
-  max-height: 152px;
   z-index: 2;
   margin: 245px 0 0;
 }
 
 @media screen and (max-width: 970px) {
   .cover__title{
-    margin: 195px 0 0;
+    margin-top: 195px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__title{
-    margin: 115px 0 0;
+    margin-top: 115px;
   }
 }
 
 @media screen and (max-width: 530px) {
   .cover__title {
-    margin: 33px 0 0;
+    margin-top: 33px;
     font-size: 32px;
     line-height: 35px;
     max-width: 288px;
-    max-height: 70px;
   }
 }

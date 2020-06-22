@@ -1,17 +1,9 @@
 .footer__links{
   max-width: fit-content;
-  max-height: 18px;
   flex: 50%;
   display: flex;
   flex-wrap: wrap;
   font-size: 16px;
   line-height: 18px;
   font-weight: normal;
-}
-
-@media screen and (max-width: 520px){
-  .footer__links{
-    max-height: 330px;
-    flex-direction: column;
-  }
 }

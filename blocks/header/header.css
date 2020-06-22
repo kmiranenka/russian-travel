@@ -1,13 +1,11 @@
-@import url(./__logo-container/header__logo-container.css);
 @import url(./__logo/header__logo.css);
 @import url(./__lang-links/header__lang-links.css);
+@import url(./__lang-item/header__lang-item.css);
 @import url(./__lang-link/header__lang-link.css);
-@import url(./__lang-link/_lang/header__lang-link_lang_ru.css);
 @import url(./__lang-link/_underlined/header__lang-link_underlined.css);
 
 .header{
   max-width: 1184px;
-  max-height: 52px;
   padding: 28px 48px 56px;
   display: flex;
 }
