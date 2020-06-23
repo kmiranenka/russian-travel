@@ -3,7 +3,6 @@
   padding: 0;
   max-width: fit-content;
   margin-left: 18px;
-  display: inline;
 }
 
 .footer__list-item:first-child{
@@ -17,7 +16,6 @@
 
 @media screen and (max-width: 526px){
   .footer__list-item{
-    display: block;
     margin-top: 32px;
     margin-left: 0;
   }

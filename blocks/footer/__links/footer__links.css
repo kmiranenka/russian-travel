@@ -1,9 +1,4 @@
 .footer__links{
   max-width: fit-content;
   flex: 50%;
-  display: flex;
-  flex-wrap: wrap;
-  font-size: 16px;
-  line-height: 18px;
-  font-weight: normal;
 }
